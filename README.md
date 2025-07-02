@@ -16,4 +16,4 @@ DAX (Data Analysis Expressions)
 Data modeling & ETL using Power Query
 
 # Sanpshot / Demo
-Show what the dashboard looks like. - ![Alt text]()
+Show what the dashboard looks like. - ![Alt text](https://github.com/AnkitVerma8005/Ecommerse-Dashboard/blob/main/Snapshot%20of%20Dashboard.PNG)
