@@ -15,3 +15,5 @@ Power BI Desktop
 DAX (Data Analysis Expressions)
 Data modeling & ETL using Power Query
 
+# Sanpshot / Demo
+Show what the dashboard looks like. - ![Alt text]()
